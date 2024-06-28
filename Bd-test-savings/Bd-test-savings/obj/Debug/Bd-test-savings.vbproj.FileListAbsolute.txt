@@ -1,0 +1,10 @@
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\bin\Debug\Bd-test-savings.exe.config
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\bin\Debug\Bd-test-savings.exe
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\bin\Debug\Bd-test-savings.pdb
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\bin\Debug\Bd-test-savings.xml
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd_test_savings.Form1.resources
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd_test_savings.Resources.resources
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd-test-savings.vbproj.GenerateResource.Cache
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd-test-savings.exe
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd-test-savings.xml
+c:\users\labpc\documents\visual studio 2013\Projects\Bd-test-savings\Bd-test-savings\obj\Debug\Bd-test-savings.pdb
